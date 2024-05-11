@@ -17,7 +17,7 @@ There are various ways to implement a blog. I use the following techniques.
   Jekyll is library written by Ruby. It can translate plain text, markdown source files, ... into html files. Therefore, we can focus on content and Jekyll will help to generate relative web source files.
 
 * **Chirpy**
-  The web template recommended. You can choose any themes you like [here](http://jekyllthemes.org/).
+  The web template recommended. You can choose any themes you like [here](https://jekyllthemes.org/).
 
 * **GitHub Page**
   You can create a repository storing source files of your blog on GitHub. GitHub will deploy the application on its server.
@@ -54,7 +54,7 @@ In short, it involves the following steps;
 * Commit and push your local repository to GitHub. Wait for automatic deployment to complete, and you will be able to visit your initialized blog!
 
 
-After these, a template website is expected to be shown on your GitHub Page, whose default URL is [\[username_of_github\].github.io]().
+After these, a template website is expected to be shown on your GitHub Page, whose default URL is `[username_of_github].github.io`.
 
 # Customize the Blog
 

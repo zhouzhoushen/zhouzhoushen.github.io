@@ -20,7 +20,7 @@ order: 4
          </span>
          ·
          <span>
-             <a href="http://zhouzhoushen.github.io/">My Blog</a>
+             <a href="https://zhouzhoushen.github.io/">My Blog</a>
          </span>
      </div>
  </center>
