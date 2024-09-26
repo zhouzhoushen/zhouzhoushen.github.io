@@ -31,7 +31,7 @@ github_username:  zhouzhoushen
 favicon: "logo.png"
 
 # Build settings
-theme: no-style-please
+theme: riggraz/no-style-please
 
 theme_config:
   appearance: "auto"
