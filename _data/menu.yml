@@ -9,7 +9,7 @@ entries:
       - title: "hobby: sleep"
       - title: "my cv"
         url: about
-      - title: For more, please view my github account.
+      - title: github
         url: https://github.com/zhouzhoushen
 
   - title: all posts
