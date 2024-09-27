@@ -21,7 +21,7 @@ entries:
 
   - title: posts by category
     post_list:
-      category: example2
+      category: thought
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html
