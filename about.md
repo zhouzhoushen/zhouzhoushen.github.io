@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Basic Information
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+* Name: Zhouzhou Shen
+* Birthday: 2002-11-29
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+# Education
 
+* Southeast University, computer science, 2021-2025
+    * gpa: 4.19/4.80, rank: 3/100
 
-[jekyll-organization]: https://github.com/jekyll
+# Award
+
+* National Scholarship

@@ -4,9 +4,11 @@
 entries:
   - title: info
     entries:
-      - title: "Name: Zhouzhou Shen"
-      - title: "Job: student"
-      - title: "Hobby: sleep"
+      - title: "name: Zhouzhou Shen"
+      - title: "job: student"
+      - title: "hobby: sleep"
+      - title: "my cv"
+        url: about
       - title: For more, please view my github account.
         url: https://github.com/zhouzhoushen
 
@@ -24,14 +26,6 @@ entries:
       show_more_text: See more posts...
       show_more_url: example2-archive.html
 
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  
   - title: rss
     url: feed.xml
   
