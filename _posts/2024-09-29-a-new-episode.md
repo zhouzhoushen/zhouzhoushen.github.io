@@ -13,4 +13,4 @@ Now almost everything have passed, the appearing road stretching far into the di
 
 Nothing more to say. Let it go and keep on going.
 
-![pixiv, 米命](https://github.com/zhouzhoushen/zhouzhoushen.github.io/blob/main/_posts/img/2024-09-29/2024092901.jpg)
+![pixiv, 米命](https://raw.githubusercontent.com/zhouzhoushen/zhouzhoushen.github.io/refs/heads/main/_posts/img/2024-09-29/2024092901.jpg)
