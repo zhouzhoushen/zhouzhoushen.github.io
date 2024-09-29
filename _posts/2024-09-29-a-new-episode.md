@@ -2,7 +2,7 @@
 layout: post
 title: "A new episode."
 date: 2024-09-29 19:51:00 +0800
-category: thought
+categories: thought
 ---
 
 I just confirmed my destination. In this process, I hurt some people and be hurt by some people.
