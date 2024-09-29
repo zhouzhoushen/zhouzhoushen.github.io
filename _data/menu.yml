@@ -19,12 +19,12 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: posts by category
+  - title: posts of category 'thought'
     post_list:
       category: thought
       show_more: true
       show_more_text: See more posts...
-      show_more_url: example2-archive.html
+      show_more_url: thought-archive.html
 
   - title: rss
     url: feed.xml
