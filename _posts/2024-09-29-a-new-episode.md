@@ -11,6 +11,6 @@ Honestly, I am a loser in these fiece competition, since I've wasted so many opp
 
 Now almost everything have passed, the appearing road stretching far into the distance, whose end can't be seen currently.
 
-Nothing more to seay. Let it go and keep on going.
+Nothing more to say. Let it go and keep on going.
 
-![pixiv, 米命](./img/2024-09-29/2024092901.jpg)
+![pixiv, 米命](https://github.com/zhouzhoushen/zhouzhoushen.github.io/blob/main/_posts/img/2024-09-29/2024092901.jpg)
