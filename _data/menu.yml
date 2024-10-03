@@ -10,19 +10,19 @@ entries:
       - title: github
         url: https://github.com/zhouzhoushen
 
+  - title: papers
+    post_list:
+      category: papers
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: papers-archive.html
+
   - title: all posts
     post_list:
       limit: 5
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
-
-  - title: posts of category 'papers'
-    post_list:
-      category: papers
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: papers-archive.html
 
   - title: rss
     url: feed.xml
