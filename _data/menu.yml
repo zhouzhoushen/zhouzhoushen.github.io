@@ -5,8 +5,6 @@ entries:
   - title: info
     entries:
       - title: "name: Zhouzhou Shen"
-      - title: "job: student"
-      - title: "hobby: sleep"
       - title: "my cv"
         url: about
       - title: github
@@ -19,12 +17,12 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: posts of category 'thought'
+  - title: posts of category 'papers'
     post_list:
-      category: thought
+      category: papers
       show_more: true
       show_more_text: See more posts...
-      show_more_url: thought-archive.html
+      show_more_url: papers-archive.html
 
   - title: rss
     url: feed.xml
