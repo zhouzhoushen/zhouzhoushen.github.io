@@ -7,7 +7,6 @@ permalink: /about/
 # Basic Information
 
 * Name: Zhouzhou Shen
-* Birthday: 2002-11-29
 
 # Education
 
