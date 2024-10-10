@@ -23,6 +23,9 @@ entries:
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
+      
+  - title: learning road
+    url: https://github.com/zhouzhoushen/learning-road
 
   - title: rss
     url: feed.xml
