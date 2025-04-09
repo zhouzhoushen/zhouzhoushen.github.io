@@ -47,3 +47,7 @@ languageName = "English"
   [markup.highlight]
     # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
     noClasses = false
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
