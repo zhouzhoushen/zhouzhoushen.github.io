@@ -1,8 +1,0 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>All Posts - Zhouzhou Shen&#39;s Homepage</title>
-        <link>http://zhouzhoushen.github.io/posts/</link>
-        <description>All Posts | Zhouzhou Shen&#39;s Homepage</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>zhouzhou_shen@qq.com (Zhouzhou Shen)</managingEditor>
-            <webMaster>zhouzhou_shen@qq.com (Zhouzhou Shen)</webMaster><lastBuildDate>Wed, 09 Apr 2025 23:38:32 &#43;0800</lastBuildDate><atom:link href="http://zhouzhoushen.github.io/posts/" rel="self" type="application/rss+xml" /></channel>
-</rss>
