@@ -8,6 +8,8 @@ summary: ""
 math: true
 ---
 
+# VsCode Python Profile配置
+
 在PyCharm中可以正常运行的项目在VsCode中需要一定的配置后才能运行。
 
 ## Step 1

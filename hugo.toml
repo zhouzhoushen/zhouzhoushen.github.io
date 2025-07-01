@@ -83,7 +83,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # website title for Open Graph and Twitter Cards
   title = "Zhouzhou Shen's Homepage"
   # website description for RSS, SEO, Open Graph and Twitter Cards
-  description = "This is Zhouzhou Shen's homepage"
+  description = "Welcome to Zhouzhou Shen's homepage!"
   # website images for Open Graph and Twitter Cards
   images = ["/logo.png"]
 
@@ -199,16 +199,16 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "Welcome to Zhouzhou Shen's Homepage"
+      subtitle = "Welcome to Zhouzhou Shen's Homepage!"
       # whether to use typeit animation for subtitle
-      typeit = true
+      typeit = false
       # whether to show social links
       social = true
       # LoveIt NEW | 0.2.0 disclaimer (HTML format is supported)
       disclaimer = ""
     # Home page posts
     [params.home.posts]
-      enable = true
+      enable = false
       # special amount of posts in each home posts page
       paginate = 6
       # LoveIt DELETED | 0.2.0 replaced with hiddenFromHomePage in params.page

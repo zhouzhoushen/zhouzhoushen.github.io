@@ -3,16 +3,15 @@ title: "Zhouzhou Shen"
 date: 2025-04-12T18:00:00+08:00
 draft: false
 description: "About Me"
-lightgallery: true
 
 math:
   enable: true
 ---
 
-# Basic Info
+# Greetings
 
-![eager_for_power](/images/eager_for_power.png)
+Hi there!
 
-* Species: Probably human;
-* Habitat：My little bed (o$\omega$o);
-* Hobbies: Sleep.
+I'm currently a graduate and I'm working on artificial-intelligence-related stuff. I will update this site from time to time. 
+
+It's a great luck to meet you there! Feel free to wander around or communicate with me through [email](mailto:zhouzhou_shen@qq.com)!

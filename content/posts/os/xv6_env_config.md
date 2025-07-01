@@ -7,6 +7,9 @@ categories: ['Operating System']
 summary: ""
 math: true
 ---
+
+# xv6环境配置
+
 xv6是MIT开发的用于教学的操作系统。相关资料链接如下：
 
 * [xv6-riscv源码](https://github.com/mit-pdos/xv6-riscv)

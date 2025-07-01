@@ -7,6 +7,9 @@ categories: ['General']
 summary: ""
 math: true
 ---
+
+# 如何阅读论文
+
 李沐提倡“读三遍”。
 
 第一遍粗筛论文；第二遍精筛论文，保留适合自己的且高质量的论文；第三遍是最后一遍，精读论文。
@@ -19,6 +22,6 @@ math: true
 
 ![读论文步骤](./images/how_to_read_papers/reading_guidance.png)
 
-### 参考文献
+## 参考文献
 
 * [如何阅读论文](https://www.zhihu.com/question/304334959/answer/553782865)

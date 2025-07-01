@@ -12,6 +12,4 @@ summary: "This is a summary"
 math: true
 ---
 
-<div style="text-align: center;">
-  <img src="/images/eager_for_power.png" alt="年轻人，你渴望力量吗" width="400">
-</div>
+# Test

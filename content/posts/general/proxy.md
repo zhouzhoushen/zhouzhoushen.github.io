@@ -7,6 +7,9 @@ categories: ['General']
 summary: ""
 math: true
 ---
+
+# 代理配置
+
 这里介绍笔者科学上网的方式。
 
 首先，我们要在不同的平台下下载不同的代理工具，它会帮我们转发流量到代理服务器。下面是笔者使用的代理工具
@@ -58,13 +61,13 @@ export http_proxy=http://<proxy_username>:<proxy_password>@<your_proxy_server>:<
 
 如果想要取消为命令行程序代理，执行`set https_proxy=`或`export https_proxy=`来重置相应环境变量即可。
 
-### VMWare虚拟机在NAT模式下上不了网
+## VMWare虚拟机在NAT模式下上不了网
 
 笔者遇到了这个问题，在终端中执行`ifconfig`只显示`lo`环回网卡，所以虚拟机的有线网卡被关闭了。
 
 笔者执行`nmcli device show`可以查看所有网卡的状态，果然有线网卡`ens33`的状态是关闭的。笔者执行`nmcli n on`启用`nmcli`工具，有线网卡`ens33`随着`nmcli`的启用而开启，然后就可以上网了。
 
-### 不同订阅在不同平台的表现不一致
+## 不同订阅在不同平台的表现不一致
 
 笔者目前购买了两个订阅。
 
