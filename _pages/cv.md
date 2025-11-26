@@ -11,10 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<!--* Ph.D in Version Control Theory, GitHub University, 2018 (expected)-->
+* M.S. in Computer Technology, Zhejiang University, from 2025 to 2028
+* B.S. in Computer Science and Technology, Southeast University, from 2021 to 2025
 
+<!--
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -40,7 +41,9 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+-->
 
+<!--
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -62,3 +65,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
