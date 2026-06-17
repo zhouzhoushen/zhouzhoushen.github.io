@@ -3,6 +3,8 @@ layout: archive
 title: "Sitemap"
 permalink: /sitemap/
 author_profile: true
+published: false
+# Hidden: public site uses the homepage as the single profile page.
 ---
 
 {% include base_path %}

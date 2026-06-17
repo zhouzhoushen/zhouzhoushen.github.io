@@ -2,6 +2,9 @@
 """
 Script to convert markdown CV to JSON format
 Author: Yuan Chen
+
+Note: the public site is currently a single-page profile in _pages/about.md.
+This converter is retained only for optional private/generated CV maintenance.
 """
 
 import os

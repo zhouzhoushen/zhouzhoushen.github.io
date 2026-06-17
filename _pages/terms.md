@@ -2,6 +2,8 @@
 permalink: /terms/
 title: "Terms and Privacy Policy"
 modified: 2016-06-06
+published: false
+# Hidden: public site uses the homepage as the single profile page.
 ---
 
 {% include base_path %}

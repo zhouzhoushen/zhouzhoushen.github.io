@@ -2,6 +2,9 @@
 
 # Script to update the CV JSON file from the markdown CV
 # Author: Yuan Chen
+#
+# Note: the public site is currently a single-page profile in _pages/about.md.
+# This script is retained only for optional private/generated CV maintenance.
 
 # Set the base directory to the repository root
 BASE_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"

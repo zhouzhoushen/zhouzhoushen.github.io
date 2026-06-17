@@ -5,6 +5,8 @@ permalink: /cv-json/
 author_profile: false
 redirect_from:
   - /resume-json
+published: false
+# Hidden: public profile is consolidated in _pages/about.md; JSON CV is retained as source only.
 ---
 
 {% include base_path %}

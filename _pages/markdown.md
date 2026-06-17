@@ -5,6 +5,8 @@ author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
+published: false
+# Hidden: public site uses the homepage as the single profile page.
 ---
 
 {% include toc %}

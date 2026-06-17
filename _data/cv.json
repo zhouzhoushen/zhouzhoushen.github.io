@@ -1,152 +1,119 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Zhouzhou Shen",
+    "email": "zhouzhoushen@zju.edu.cn",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://zhouzhoushen.github.io",
+    "summary": "Master's student at AI4GC Lab, Zhejiang University, advised by Prof. Shengyu Zhang. Research focuses on computer-using agents.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Zhejiang",
+      "countryCode": "CN",
+      "region": "China"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?hl=en&user=8uZchR8AAAAJ"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0009-0006-3084-6594"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "zhouzhoushen",
+        "url": "https://github.com/zhouzhoushen"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Zhejiang University",
+      "area": "Computer Technology",
+      "studyType": "M.S.",
+      "startDate": "2025",
+      "endDate": "present",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "Southeast University",
+      "area": "Computer Science and Technology",
+      "studyType": "B.S.",
+      "startDate": "2021",
+      "endDate": "2025",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Research Interests",
+      "level": "",
+      "keywords": [
+        "Computer-using agents",
+        "Web agents",
+        "World-model-based action correction",
+        "Multimodal long-context inference"
+      ]
+    }
+  ],
   "languages": [],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Computer-using agents",
+      "keywords": [
+        "Interactive environments",
+        "Action verification",
+        "Action correction"
+      ]
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "World-Model-Augmented Web Agents with Action Correction",
+      "publisher": "arXiv",
+      "releaseDate": "2026",
+      "website": "https://arxiv.org/abs/2602.15384",
+      "summary": "Web agents that use world models to anticipate, verify, and correct actions in interactive web environments. Co-first authors: Zhouzhou Shen and Xueyu Hu."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "MadaKV: Adaptive Modality-Perception KV Cache Eviction for Efficient Multimodal Long-Context Inference",
+      "publisher": "ACL",
+      "releaseDate": "2025",
+      "website": "https://doi.org/10.18653/v1/2025.acl-long.652",
+      "summary": "Adaptive modality-perception KV cache eviction for efficient multimodal long-context inference. Co-first authors: Kunxi Li and Zhonghua Jiang."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
+  "presentations": [],
+  "teaching": [],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
+      "name": "Video Production Buddy",
+      "category": "Open-source project",
       "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "url": "https://video-production-buddy.github.io",
+      "description": "An open-source AI video production assistant that turns general-purpose agents into video production experts, with brief clarification, proposal gates, asset generation, composition, and review before expensive generation runs.",
+      "links": [
+        {
+          "label": "GitHub",
+          "href": "https://github.com/video-production-buddy/video-production-buddy"
+        },
+        {
+          "label": "Project Page",
+          "href": "https://video-production-buddy.github.io"
+        }
+      ],
+      "tags": [
+        "Content Production",
+        "Agents"
+      ]
     }
   ]
 }

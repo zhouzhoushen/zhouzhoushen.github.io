@@ -2,6 +2,8 @@
 title: "Archive Layout with Content"
 layout: archive
 permalink: /archive-layout-with-content/
+published: false
+# Hidden: public site uses the homepage as the single profile page.
 ---
 
 A variety of common markup showing how the theme styles them.

@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Zhouzhou Shen's Profile"
 title_separator          : "-"
 name                     : &name "Zhouzhou Shen"
-description              : &description "Zhouzhou Shen's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Zhouzhou Shen's profile"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://zhouzhoushen.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Zhouzhou Shen"
   pronouns         : # example: "she/her"  
-  bio              : "Master student at Zhejiang University"
+  bio              : "Master's student."
   location         : "Zhejiang, China"
   employer         : "Zhejiang University"
   uri              : # URL
-  email            : "zhouzhou_shen@qq.com" 
+  email            : "zhouzhoushen@zju.edu.cn"
 
   # Academic websites
   academia         : # URL
@@ -219,16 +219,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
@@ -241,6 +241,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      published: false
       read_time: true
       comments: true
       share: true

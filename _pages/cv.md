@@ -5,64 +5,28 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+published: false
+# Hidden: public profile is consolidated in _pages/about.md; this source is retained for reference only.
 ---
 
 {% include base_path %}
 
 Education
 ======
-<!--* Ph.D in Version Control Theory, GitHub University, 2018 (expected)-->
-* M.S. in Computer Technology, Zhejiang University, from 2025 to 2028
-* B.S. in Computer Science and Technology, Southeast University, from 2021 to 2025
+* M.S. in Computer Technology, Zhejiang University, 2025 - present
+* B.S. in Computer Science and Technology, Southeast University, 2021 - 2025
 
-<!--
-Work experience
+Research Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Computer-using agents - Web agents that reason about interactive environments and recover from incorrect or uncertain actions.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Open-source Projects
+======
+* Video Production Buddy - An open-source AI video production assistant that turns general-purpose agents into video production experts, with brief clarification, proposal gates, asset generation, composition, and review before expensive generation runs. [GitHub](https://github.com/video-production-buddy/video-production-buddy) · [Project Page](https://video-production-buddy.github.io)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Selected Papers
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
--->
+* Zhouzhou Shen<sup>*</sup>, Xueyu Hu<sup>*</sup>, Xiyun Li, Tianqing Fang, Juncheng Li, and Shengyu Zhang. "World-Model-Augmented Web Agents with Action Correction." arXiv, 2026. [Paper](https://arxiv.org/abs/2602.15384)
+* Kunxi Li<sup>*</sup>, Zhonghua Jiang<sup>*</sup>, Zhouzhou Shen, Zhaode Wang, Chengfei Lv, Shengyu Zhang, Fan Wu, and Fei Wu. "MadaKV: Adaptive Modality-Perception KV Cache Eviction for Efficient Multimodal Long-Context Inference." ACL, 2025. [Paper](https://doi.org/10.18653/v1/2025.acl-long.652)
 
-<!--
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
--->
+<sup>*</sup> Co-first authors with equal contribution.

@@ -7,4 +7,30 @@ redirect_from:
   - /about.html
 ---
 
-I am a master's student at Zhejiang University, advised by Prof. Shengyu Zhang. My research interest is GUI Agent.
+Hi! I'm **Zhouzhou Shen**, a master's student at AI4GC Lab, Zhejiang University, advised by Prof. Shengyu Zhang.
+
+My research focuses on computer-using agents, such as building web agents that can anticipate, verify, and correct their actions with world models, making interactive automation more reliable in real web environments.
+
+Education
+======
+
+* M.S. in Computer Technology, Zhejiang University, 2025 - present
+* B.S. in Computer Science and Technology, Southeast University, 2021 - 2025
+
+Research Interests
+======
+
+* **Computer-using agents** - Web agents that reason about interactive environments and recover from incorrect or uncertain actions.
+
+Open-source Projects
+======
+
+* **[Video Production Buddy](https://video-production-buddy.github.io)** - An open-source AI video production assistant that turns general-purpose agents into video production experts, with brief clarification, proposal gates, asset generation, composition, and review before expensive generation runs. [GitHub](https://github.com/video-production-buddy/video-production-buddy)
+
+Selected Papers
+======
+
+* Zhouzhou Shen<sup>*</sup>, Xueyu Hu<sup>*</sup>, Xiyun Li, Tianqing Fang, Juncheng Li, and Shengyu Zhang. "World-Model-Augmented Web Agents with Action Correction." arXiv, 2026. [Paper](https://arxiv.org/abs/2602.15384)
+* Kunxi Li<sup>*</sup>, Zhonghua Jiang<sup>*</sup>, Zhouzhou Shen, Zhaode Wang, Chengfei Lv, Shengyu Zhang, Fan Wu, and Fei Wu. "MadaKV: Adaptive Modality-Perception KV Cache Eviction for Efficient Multimodal Long-Context Inference." ACL, 2025. [Paper](https://doi.org/10.18653/v1/2025.acl-long.652)
+
+<sup>*</sup> Co-first authors with equal contribution.
